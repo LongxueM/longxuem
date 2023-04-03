@@ -4,7 +4,8 @@ const dev = {
   name: 'W. Mouton',
   shell: 'zsh',
   distro: 'Arch',
-  Focus: 'Data Science | Blockchain'
+  focus: 'Data Science | Blockchain',
+  progLangs: 'Python | Go | Solidity | JavaScript'
 };
 ```
 
