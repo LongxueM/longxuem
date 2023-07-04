@@ -1,7 +1,7 @@
 
 ```javascript
 const dev = {
-  name: 'W. Mouton',
+  name: 'Lóngshén',
   shell: 'zsh',
   distro: 'Arch',
   focus: 'Data Science | Blockchain',
