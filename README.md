@@ -1,7 +1,7 @@
 
 ```javascript
 const dev = {
-  name: 'Lóngshén',
+  name: 'Lóngxuè',
   shell: 'zsh',
   distro: 'Arch',
   focus: 'Data Science | Blockchain',
